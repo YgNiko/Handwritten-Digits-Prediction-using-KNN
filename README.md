@@ -1,1 +1,2 @@
 # Handwritten-Digits-Prediction-using-KNN
+This repository introduces a "Handwritten-Digit-Recognition" using MNIST Data-set . It implements and executes by applying KNN algorithm with recognition accuracy of 98.32% . The desired results have been obtained by training the machine first using the mnist_train data-set and later testing the obtained results using mnist_test data-set , to recognise the handwritten digit.
